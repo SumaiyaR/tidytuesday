@@ -28,3 +28,15 @@ The second plot combines two of my interests: the proportion of PhD grads leavin
 
 ![alt text](https://github.com/SumaiyaR/tidytuesday/blob/master/t.gif)
 
+
+</br>
+</br>
+</br>
+
+### Plots from TidyTuesday Wk 9 (Feb 26)
+
+I wanted to try a plot that reflects train journeys and thought the arcdiagram package would be perfect. I decided to sum up the average delays at arrival and departure for 2017, and take the average over the whole of 2017 for each departure-arrival station pair. Unfortunately, I could not change the line ends to arrow-heads to show the direction of the arcs. As a result, it is hard to understand from the figure which station has the worst record. If I get time next week, I might update the line shapes so it is clearer. 
+
+![alt text](https://github.com/SumaiyaR/tidytuesday/blob/master/Rplot01.png)
+
+
